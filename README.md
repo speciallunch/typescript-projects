@@ -1,3 +1,7 @@
+# 1. drawImageToCanvas 예제
+
+image 파일 로드하여 filter 적용하는 예제
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
